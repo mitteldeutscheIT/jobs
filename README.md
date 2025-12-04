@@ -1,13 +1,14 @@
 # jobs
 Offene Stellen
+
 **KI-Engineer (m/w/d)**
 Focus: LLM Systems, Speech Models, RAG & KI Platform Engineering
 
-Your Mission
+**Your Mission**
 Design, build and optimize next-generation LLM-based systems.
 Own core components of our AI platform – from model ingestion to GPU-optimized inference – in a production-grade environment.
 
-Your Responsibilities
+**Your Responsibilities**
     • Architect RAG pipelines (vector stores, retrievers, ranking pipelines)
     • Build STT/TTS pipelines using SOTA speech models
     • Implement model-serving endpoints (REST, gRPC, MCP)
@@ -15,7 +16,7 @@ Your Responsibilities
     • Optimize GPU workloads, batching, quantization (ONNX, GGUF, TensorRT)
     • Deploy scalable workloads on Kubernetes
 
-Tech Stack
+**Tech Stack**
 Models & Frameworks
     • Llama/Mistral/GPT style LLMs
     • Whisper / TTS models
