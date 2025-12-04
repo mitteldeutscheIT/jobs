@@ -1,90 +1,72 @@
 # jobs
 Offene Stellen
 
-**KI-Engineer (m/w/d)**
-Focus: LLM Systems, Speech Models, RAG & KI Platform Engineering
+# 🚀 [Jobtitel] (m/w/d)
+**Unternehmen:** [Firmenname]  
+**Standort:** [Ort / Remote]  
+**Anstellungsart:** [Vollzeit / Teilzeit / Freelance / Praktikum]  
+**Startdatum:** [flexibel / Datum]
 
-**Your Mission**
-Design, build and optimize next-generation LLM-based systems.
-Own core components of our AI platform – from model ingestion to GPU-optimized inference – in a production-grade environment.
+---
 
-**Your Responsibilities**
-    • Architect RAG pipelines (vector stores, retrievers, ranking pipelines)
-    • Build STT/TTS pipelines using SOTA speech models
-    • Implement model-serving endpoints (REST, gRPC, MCP)
-    • Build microservices for inference, routing and model orchestration
-    • Optimize GPU workloads, batching, quantization (ONNX, GGUF, TensorRT)
-    • Deploy scalable workloads on Kubernetes
+## 🏢 Über uns
+[Kurze Beschreibung des Unternehmens: Was macht ihr? Wofür steht ihr? Warum sollte jemand bei euch arbeiten?]
 
-**Tech Stack**
-Models & Frameworks
-    • Llama/Mistral/GPT style LLMs
-    • Whisper / TTS models
-    • PyTorch, Transformers, ONNX Runtime
-    • LangChain / LlamaIndex
+---
 
-Platform
-    • Kubernetes
-    • GPU Nodes (NVIDIA)
-    • MCP-Server, Microservices
-    • Vector DBs (FAISS, Milvus, Pinecone optional)
+## 💼 Deine Aufgaben
+- [Aufgabe 1]
+- [Aufgabe 2]
+- [Aufgabe 3]
+- [Optional: Verantwortungsbereich, Technologien, Teamgröße]
 
-Dev
-    • Python, Golang
-    • API Engineering (REST/gRPC)
-    • CI/CD (GitLab, ArgoCD)
+---
 
-Requirements
-    • Strong Python OR Golang background
-    • Experience with LLMs, ML systems, distributed systems
-    • Understanding of MLOps / Model Serving
-    • Good knowledge of containerized environments
+## 🧰 Dein Profil
+- [Qualifikation / Ausbildung / Studium]
+- [Technische Skills – z. B. JavaScript, Python, Docker, Git]
+- [Soft Skills – z. B. Teamfähigkeit, Problemlösung, Kommunikation]
+- [Sprachen]
+- [Optional: Nice-to-haves]
 
-What we offer
-    • Real impact on architecture & platform
-    • Full access to GPUs & modern infra
-    • Modern workspace & flexible working
-    • Permanent contract & competitive salary
+---
 
-Apply now
-karriere@mitteldeutsche-it.de
-https://termin.mitteldeutsche-it.de/job-ki-entwickler/
+## 🛠️ Unsere Tech-Stack
+- [Programmiersprachen]
+- [Frameworks]
+- [Tools / DevOps]
+- [Cloud / Infrastruktur]
 
+---
 
-Network Engineer (m/w/d)
+## 🎁 Wir bieten dir
+- [Remote-Optionen]
+- [Urlaub / Benefits]
+- [Weiterbildungsmöglichkeiten]
+- [Moderne Arbeitsgeräte]
+- [Team-Events]
+- [Flexible Arbeitszeiten]
 
-Focus: L2/L3 Switching, BGP, IPv6, Network Monitoring
+---
 
-Your Responsibilities
-    • Operate & optimize enterprise network infrastructure
-    • Manage L2/L3 switching environments
-    • Maintain routing (BGP, IPv4/IPv6) & peering setups
-    • Monitor systems & handle incident response
-    • Work closely with Cloud, DevOps & Infra teams
-    • Improve network automation & reliability
+## 📬 Bewirb dich jetzt!
+Wenn dich diese Stelle anspricht, sende uns deine Bewerbung an:
 
-Core Technologies
-    • IPv4/IPv6
-    • L2/L3 Switching
-    • BGP Routing & Peering
-    • Monitoring/Alerting Systems
-    • High Availability Networking
+**E-Mail:** [bewerbung@firma.de]  
+oder  
+**GitHub:** Reiche einen Pull Request ein oder eröffne ein Issue in diesem Repository.
 
-Requirements
-    • 3+ years network experience
-    • Strong routing & switching skills
-    • Analytical mindset & troubleshooting skills
-    • Good documentation & teamwork habits
+Bitte füge hinzu:
+- Lebenslauf  
+- Optional: GitHub-Profil, Projekte, Portfolio  
+- Kurzes Motivationsschreiben (optional)
 
-We Offer
-    • Modern work environment
-    • Flexible working & home office
-    • Training budget
-    • Permanent contract & attractive salary
+---
 
-Apply now
-karriere@mitteldeutsche-it.de
-https://termin.mitteldeutsche-it.de/job-ki-entwickler/
+## ❓ Fragen?
+Schreibe uns gerne ein Issue oder kontaktiere uns über [Kontaktlink].
 
+---
 
-
+## 🔖 Tags
+`#hiring` `#jobs` `#developer` `#remote` `#engineering` `[weitere Tags]`
