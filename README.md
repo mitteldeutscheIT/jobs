@@ -1,72 +1,53 @@
 # jobs
 Offene Stellen
 
-# 🚀 [Jobtitel] (m/w/d)
-**Unternehmen:** [Firmenname]  
-**Standort:** [Ort / Remote]  
-**Anstellungsart:** [Vollzeit / Teilzeit / Freelance / Praktikum]  
-**Startdatum:** [flexibel / Datum]
+# 🚀 [Ki-Entwickler] (m/w/d)
+**Unternehmen:** [mitteldeutsche IT GmbH]  
+**Standort:** [Hybrid]  
+**Anstellungsart:** [Vollzeit]  
+**Startdatum:** [sofort]
 
 ---
 
 ## 🏢 Über uns
-[Kurze Beschreibung des Unternehmens: Was macht ihr? Wofür steht ihr? Warum sollte jemand bei euch arbeiten?]
+[Die mitteldeutsche IT ist gekommen, um zu wachsen, um Deutschland auf ein neues Level der Digitalisierung zu verhelfen. Gemeinsam mit unserem Team gestalten wir die digitale Freiheit für Europa und setzen mit unseren Lösungen neue Maßstäbe.Wir machen mittelständische Unternehmen, Softwarehersteller, IT-Systemhäuser & Kommunen bereit für die Zukunft. Mit unserem Glasfasernetz und unseren Cloud-Lösungen bieten wir die technische Infrastruktur, um die Digitalisierung souverän zu meistern. Dabei übernehmen wir alle Schritte von der Planung bis zur Umsetzung.]
 
 ---
 
-## 💼 Deine Aufgaben
-- [Aufgabe 1]
-- [Aufgabe 2]
-- [Aufgabe 3]
-- [Optional: Verantwortungsbereich, Technologien, Teamgröße]
+## 💼 Woran Du bei uns arbeitest
+- [Du entwickelst KI-Services auf Basis moderner LLMs]
+- [Du baust RAG-Pipelines & Agenten, die Menschen wirklich unterstützen]
+- [Du entwickelst Microservices für Model Hosting & Inference]
+- [Du gestaltest unsere KI-Plattform aktiv mit – technisch & konzeptionell]
 
 ---
 
-## 🧰 Dein Profil
-- [Qualifikation / Ausbildung / Studium]
-- [Technische Skills – z. B. JavaScript, Python, Docker, Git]
-- [Soft Skills – z. B. Teamfähigkeit, Problemlösung, Kommunikation]
-- [Sprachen]
-- [Optional: Nice-to-haves]
+## 🧰 Was Du mitbringst
+- [Solide Software-Engineering-Skills (Python oder Golang)]
+- [Leidenschaft für KI, LLMs & neue Technologien]
+- [Neugier, Ownership und Teamgeist]
+
 
 ---
 
-## 🛠️ Unsere Tech-Stack
-- [Programmiersprachen]
-- [Frameworks]
-- [Tools / DevOps]
-- [Cloud / Infrastruktur]
+## 🛠️ Was Dich bei uns erwartet
+- [Modernste Arbeitsplätze, GPU-Ressourcen & Kubernetes-Cluster]
+- [Ein starkes Tech-Team, echte Gestaltungsfreiheit]
+- [Flexible Arbeitsbedingungen & attraktive Benefits]
+- [Unbefristeter Vertrag]
 
 ---
 
-## 🎁 Wir bieten dir
-- [Remote-Optionen]
-- [Urlaub / Benefits]
-- [Weiterbildungsmöglichkeiten]
-- [Moderne Arbeitsgeräte]
-- [Team-Events]
-- [Flexible Arbeitszeiten]
-
----
 
 ## 📬 Bewirb dich jetzt!
-Wenn dich diese Stelle anspricht, sende uns deine Bewerbung an:
+Du hast noch Fragen? So kannst Du uns erreichen:
 
-**E-Mail:** [bewerbung@firma.de]  
+**E-Mail:** [karriere@mitteldeutsche-it.de]  
 oder  
 **GitHub:** Reiche einen Pull Request ein oder eröffne ein Issue in diesem Repository.
 
-Bitte füge hinzu:
-- Lebenslauf  
-- Optional: GitHub-Profil, Projekte, Portfolio  
-- Kurzes Motivationsschreiben (optional)
-
----
-
-## ❓ Fragen?
-Schreibe uns gerne ein Issue oder kontaktiere uns über [Kontaktlink].
-
+Jetzt online bewerben in 60s [[Kontaktlink](https://termin.mitteldeutsche-it.de/job-ki-entwickler/)].
 ---
 
 ## 🔖 Tags
-`#hiring` `#jobs` `#developer` `#remote` `#engineering` `[weitere Tags]`
+`#hiring` `#jobs` `#developer` `#engineering` `#Ki`
