@@ -1,9 +1,9 @@
 # jobs
 Offene Stellen
 
-# 🚀 [Ki-Entwickler] (m/w/d)
+# 🚀 [KI-Entwickler] (m/w/d)
 **Unternehmen:** [mitteldeutsche IT GmbH]  
-**Standort:** [Hybrid]  
+**Standort:** [HLeipzig]  
 **Anstellungsart:** [Vollzeit]  
 **Startdatum:** [sofort]
 
@@ -51,3 +51,7 @@ Jetzt online bewerben in 60s [[Kontaktlink](https://termin.mitteldeutsche-it.de/
 
 ## 🔖 Tags
 `#hiring` `#jobs` `#developer` `#engineering` `#Ki`
+
+
+
+
