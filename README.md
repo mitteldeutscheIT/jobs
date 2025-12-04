@@ -48,3 +48,37 @@ What we offer
 Apply now
 karriere@mitteldeutsche-it.de
 https://termin.mitteldeutsche-it.de/job-ki-entwickler/
+
+
+Network Engineer (m/w/d)
+Focus: L2/L3 Switching, BGP, IPv6, Network Monitoring
+Your Responsibilities
+    • Operate & optimize enterprise network infrastructure
+    • Manage L2/L3 switching environments
+    • Maintain routing (BGP, IPv4/IPv6) & peering setups
+    • Monitor systems & handle incident response
+    • Work closely with Cloud, DevOps & Infra teams
+    • Improve network automation & reliability
+Core Technologies
+    • IPv4/IPv6
+    • L2/L3 Switching
+    • BGP Routing & Peering
+    • Monitoring/Alerting Systems
+    • High Availability Networking
+Requirements
+    • 3+ years network experience
+    • Strong routing & switching skills
+    • Analytical mindset & troubleshooting skills
+    • Good documentation & teamwork habits
+We Offer
+    • Modern work environment
+    • Flexible working & home office
+    • Training budget
+    • Permanent contract & attractive salary
+
+    Apply now
+karriere@mitteldeutsche-it.de
+https://termin.mitteldeutsche-it.de/job-ki-entwickler/
+
+
+
