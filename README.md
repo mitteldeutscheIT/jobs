@@ -1,6 +1,6 @@
 # jobs
 Offene Stellen
-KI-Engineer (m/w/d)
+**KI-Engineer (m/w/d)**
 Focus: LLM Systems, Speech Models, RAG & KI Platform Engineering
 
 Your Mission
