@@ -39,7 +39,7 @@ Offene Stellen
 ---
 
 
-## 📬 Bewirb dich jetzt!
+## 📬 Bewirb Dich jetzt!
 Du hast noch Fragen? So kannst Du uns erreichen:
 
 **E-Mail:** [karriere@mitteldeutsche-it.de]  
